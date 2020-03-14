@@ -1,0 +1,4 @@
+# Created at 2019-09-19T14:33:23.398
+Boot Manifest-JAR contains absolute paths in classpath 'D:\sofq_automation\sofq_automation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

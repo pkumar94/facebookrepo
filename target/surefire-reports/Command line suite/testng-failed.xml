@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.sofq.Test.manage_user_roles_Test">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.sofq.Test.manage_user_roles_Test -->
+      <class name="com.sofq.Test.Artifacts_Test">
+        <methods>
+          <include name="validatingArtifacts"/>
+        </methods>
+      </class> <!-- com.sofq.Test.Artifacts_Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
